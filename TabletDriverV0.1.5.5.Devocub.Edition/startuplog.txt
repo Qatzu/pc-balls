@@ -1,0 +1,497 @@
+2024-10-23 02:26:35 [INFO] \ Reading 'config/init.cfg'
+2024-10-23 02:26:35 [INFO] >> Log startuplog.txt
+2024-10-23 02:26:35 [INFO] Log file 'startuplog.txt' opened.
+2024-10-23 02:26:35 [INFO] >> LogDirect true
+2024-10-23 02:26:35 [INFO] Log direct print = True
+2024-10-23 02:26:35 [INFO] >> Include "config\tablet.cfg"
+2024-10-23 02:26:35 [INFO] \ Reading 'config\tablet.cfg'
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Example tablet definition:
+2024-10-23 02:26:35 [INFO] >> #   Tablet 0x056a 0x00dd 0x0D 0x01
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # VID: 0x056a
+2024-10-23 02:26:35 [INFO] >> # PID: 0x00dd
+2024-10-23 02:26:35 [INFO] >> # HID Usage Page: 0x0D
+2024-10-23 02:26:35 [INFO] >> # HID Usage: 0x01
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-470 (Wacom drivers installed)
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x00dd 0xFF00 0x000A
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x00DD 0xFF00 0x000A
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-470 (Wacom drivers installed)"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 11
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 14720
+2024-10-23 02:26:35 [INFO] >> MaxY 9200
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 147.2
+2024-10-23 02:26:35 [INFO] >> Height 92.0
+2024-10-23 02:26:35 [INFO] >> Type WacomDrivers
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-470
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x00dd 0x0D 0x01
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x00DD 0x000D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-470"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 14720
+2024-10-23 02:26:35 [INFO] >> MaxY 9200
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 147.2
+2024-10-23 02:26:35 [INFO] >> Height 92.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTH-470 ???
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x00de 0x0D 0x01
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x00DE 0x000D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTH-470"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 14720
+2024-10-23 02:26:35 [INFO] >> MaxY 9200
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 147.2
+2024-10-23 02:26:35 [INFO] >> Height 92.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTH-670 ???
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x00df 0x0D 0x01
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x00DF 0x000D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTH-670"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 21648
+2024-10-23 02:26:35 [INFO] >> MaxY 13700
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 216.48
+2024-10-23 02:26:35 [INFO] >> Height 137.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-471 (Wacom drivers installed)
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0300 0xFF00 0x000A
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0300 0xFF00 0x000A
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-471 (Wacom drivers installed)"
+2024-10-23 02:26:35 [INFO] >> ReportLength 11
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 152.00
+2024-10-23 02:26:35 [INFO] >> Height 95.00
+2024-10-23 02:26:35 [INFO] >> Type WacomDrivers
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-471
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0300 0xFF0D 0x01
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0300 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-471"
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 152.00
+2024-10-23 02:26:35 [INFO] >> Height 95.00
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-671 ???
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0301 0xFF0D 0x01
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0301 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-671"
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 21648
+2024-10-23 02:26:35 [INFO] >> MaxY 13530
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 216.48
+2024-10-23 02:26:35 [INFO] >> Height 135.30
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-472
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x037a 0xFF00 0x000A
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x037A 0xFF00 0x000A
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-472 (Wacom drivers installed)"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 11
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 2047
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> Type WacomDrivers
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-472
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x037a 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x037A 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-472"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 2047
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-672 ???
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x037b 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x037B 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-672"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 21600
+2024-10-23 02:26:35 [INFO] >> MaxY 13500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 2047
+2024-10-23 02:26:35 [INFO] >> Width 216.00
+2024-10-23 02:26:35 [INFO] >> Height 135.00
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-480 (Wacom drivers installed)
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x030e 0xFF00 0x000A
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x030E 0xFF00 0x000A
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-480 (Wacom drivers installed)"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 11
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> Type WacomDrivers
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-480
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x030e 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x030E 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-480"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTH-480 (Wacom drivers installed)
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0302 0xFF00 0x000A
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0302 0xFF00 0x000A
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTH-480 (Wacom drivers installed)"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 11
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> Type WacomDrivers
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTH-480
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0302 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0302 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTH-480"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-680 ???
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0323 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0323 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-680"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 21600
+2024-10-23 02:26:35 [INFO] >> MaxY 13500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 216.0
+2024-10-23 02:26:35 [INFO] >> Height 135.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTH-680 ???
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0303 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0303 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTH-680"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x02
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] >> MaxX 21600
+2024-10-23 02:26:35 [INFO] >> MaxY 13500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 1023
+2024-10-23 02:26:35 [INFO] >> Width 216.0
+2024-10-23 02:26:35 [INFO] >> Height 135.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-490
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x033b 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x033B 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-490"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x10
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0xA0
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 2047
+2024-10-23 02:26:35 [INFO] >> KeepTipDown 2 packets
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> #Feature 0x83 0x02 0x00
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> Type WacomIntuos
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTH-490 ???
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x033c 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x033C 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTH-490"
+2024-10-23 02:26:35 [INFO] >> ReportId 0x10
+2024-10-23 02:26:35 [INFO] >> ReportLength 10
+2024-10-23 02:26:35 [INFO] >> DetectMask 0xA0
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 2047
+2024-10-23 02:26:35 [INFO] >> KeepTipDown 2 packets
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] >> InitFeature 0x02 0x02
+2024-10-23 02:26:35 [INFO] >> Type WacomIntuos
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-4100
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0376 0xFF0D 0x0001
+2024-10-23 02:26:35 [WARNING] Can't open HID tablet 0x056A 0x0376 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0374 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] Tablet found!
+2024-10-23 02:26:35 [INFO] >> Name "Wacom CTL-4100"
+2024-10-23 02:26:35 [INFO] Tablet name = 'Wacom CTL-4100'
+2024-10-23 02:26:35 [INFO] >> ReportId 0x10
+2024-10-23 02:26:35 [INFO] Tablet report id = 16
+2024-10-23 02:26:35 [INFO] >> ReportLength 192
+2024-10-23 02:26:35 [INFO] Tablet report length = 192
+2024-10-23 02:26:35 [INFO] >> DetectMask 0x40
+2024-10-23 02:26:35 [INFO] Tablet detect mask = 40
+2024-10-23 02:26:35 [INFO] >> MaxX 15200
+2024-10-23 02:26:35 [INFO] Tablet max X = 15200
+2024-10-23 02:26:35 [INFO] >> MaxY 9500
+2024-10-23 02:26:35 [INFO] Tablet max Y = 9500
+2024-10-23 02:26:35 [INFO] >> MaxPressure 4095
+2024-10-23 02:26:35 [INFO] Tablet max pressure = 4095
+2024-10-23 02:26:35 [INFO] >> Width 152.0
+2024-10-23 02:26:35 [INFO] Tablet width = 152.00 mm
+2024-10-23 02:26:35 [INFO] >> Height 95.0
+2024-10-23 02:26:35 [INFO] Tablet height = 95.00 mm
+2024-10-23 02:26:35 [INFO] >> Type Wacom4100
+2024-10-23 02:26:35 [INFO] Tablet type = 2
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom CTL-4100 (Wacom drivers installed)
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056a 0x0376 0xFF00 0x000A
+2024-10-23 02:26:35 [INFO] Tablet is already defined!
+2024-10-23 02:26:35 [INFO] / End of 'config\tablet.cfg'
+2024-10-23 02:26:35 [INFO] >> Include "config\wacom.cfg"
+2024-10-23 02:26:35 [INFO] \ Reading 'config\wacom.cfg'
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # This file is automatically generated from these sources:
+2024-10-23 02:26:35 [INFO] >> #   https://github.com/linuxwacom/input-wacom/blob/master/3.7/wacom_wac.h
+2024-10-23 02:26:35 [INFO] >> #   https://github.com/linuxwacom/input-wacom/blob/master/3.7/wacom_wac.c
+2024-10-23 02:26:35 [INFO] >> #   https://github.com/linuxwacom/input-wacom/wiki/Device-IDs
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # DO NOT EDIT THIS FILE!
+2024-10-23 02:26:35 [INFO] >> #   Make the configuration modifications to the tablet.cfg
+2024-10-23 02:26:35 [INFO] >> #   Tablet.cfg will overwrite the settings from this file, if the tablet is found.
+2024-10-23 02:26:35 [INFO] >> #
+2024-10-23 02:26:35 [INFO] >> # Wacom PTK-450
+2024-10-23 02:26:35 [INFO] >> Tablet 0x056A 0x0029 0xFF0D 0x0001
+2024-10-23 02:26:35 [INFO] Tablet is already defined!
+2024-10-23 02:26:35 [INFO] / End of 'config\wacom.cfg'
+2024-10-23 02:26:35 [INFO] >> Include "config\user.cfg"
+2024-10-23 02:26:35 [INFO] \ Reading 'config\user.cfg'
+2024-10-23 02:26:35 [INFO] / End of 'config\user.cfg'
+2024-10-23 02:26:35 [INFO] / End of 'config/init.cfg'
+2024-10-23 02:26:35 [INFO] >> HIDList
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x000D, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 8, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'SINOWEALTH' Product: 'Wired Gaming Mouse'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x0036
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF00, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 6, InputLen: 0, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'Wacom Co.,Ltd.' Product: 'Intuos S'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x056A, Product Id: 0x0374
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF0D, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 1281, InputLen: 192, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF00, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 65, OutputLen: 65
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF00, Usage: 0x0002
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 33, OutputLen: 65
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x000D, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 8, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'Ducky' Product: 'Ducky One2 SF RGB'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x0416, Product Id: 0x0123
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x0001, Usage: 0x0000
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 65, OutputLen: 65
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF00, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 65, OutputLen: 65
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'Ducky' Product: 'Ducky One2 SF RGB'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x0416, Product Id: 0x0123
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x000C, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 5, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF00, Usage: 0x0002
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 33, OutputLen: 65
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x0000, Usage: 0x000E
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 3, InputLen: 0, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'DJP Inc.' Product: 'Virtual Multitouch Device'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x00FF, Product Id: 0xBACC
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x0000, Usage: 0x000E
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 3, InputLen: 0, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'SINOWEALTH' Product: 'Wired Gaming Mouse'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x0036
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x000C, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 4, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'SINOWEALTH' Product: 'Wired Gaming Mouse'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x0036
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF00, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 520, InputLen: 0, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'SINOWEALTH' Product: 'Wired Gaming Mouse'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x0036
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0xFF00, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 8, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] HID Device: Vendor: 'Glorious' Product: 'Model O Wireless'
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x2022
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   Usage Page: 0x000C, Usage: 0x0001
+2024-10-23 02:26:35 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 3, OutputLen: 0
+2024-10-23 02:26:35 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] HID Device: Vendor: 'Glorious' Product: 'Model O Wireless'
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x2022
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Usage Page: 0x0001, Usage: 0x0080
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 2, OutputLen: 0
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] HID Device: Vendor: 'Glorious' Product: 'Model O Wireless'
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x2022
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Usage Page: 0xFFA0, Usage: 0x0001
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 9, OutputLen: 0
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] HID Device: Vendor: 'Glorious' Product: 'Model O Wireless'
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x2022
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Usage Page: 0xFFFF, Usage: 0x0001
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   FeatureLen: 0, InputLen: 9, OutputLen: 0
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] HID Device: Vendor: 'Glorious' Product: 'Model O Wireless'
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Vendor Id: 0x258A, Product Id: 0x2022
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   Usage Page: 0xFFFF, Usage: 0x0000
+2024-10-23 02:26:36 [HIDDevice] [DEBUG]   FeatureLen: 65, InputLen: 0, OutputLen: 0
+2024-10-23 02:26:36 [HIDDevice] [DEBUG] 
+2024-10-23 02:26:36 [INFO] 
+2024-10-23 02:26:36 [INFO]   Driver version: 0.1.5.5 Devocub Edition
+2024-10-23 02:26:36 [INFO]   Windows version: Microsoft Windows NT 6.2.9200.0
+2024-10-23 02:26:36 [INFO]   Windows product: Windows 10 Home
+2024-10-23 02:26:36 [INFO]   Windows release: 2009
+2024-10-23 02:26:36 [INFO] 
+2024-10-23 02:26:36 [INFO] >> CheckTablet
+2024-10-23 02:26:36 [INFO] >> DesktopSize 3520 1080
+2024-10-23 02:26:36 [INFO] Desktop size = (3520.00 px x 1080.00 px)
+2024-10-23 02:26:36 [INFO] >> ScreenArea 1920 1080 0 0
+2024-10-23 02:26:36 [INFO] Screen area = (w=1920.00, h=1080.00, x=0.00, y=0.00)
+2024-10-23 02:26:36 [INFO] >> TabletArea 152 85.5 76 42.75
+2024-10-23 02:26:36 [INFO] Tablet area: (152.00 mm x 85.50 mm X+76.00 mm Y+42.75 mm)
+2024-10-23 02:26:36 [INFO] >> Rotate 0
+2024-10-23 02:26:36 [INFO] Rotation matrix = [1.000000,-0.000000,0.000000,1.000000]
+2024-10-23 02:26:36 [INFO] >> Mode Absolute
+2024-10-23 02:26:36 [INFO] Output Mode = Absolute
+2024-10-23 02:26:36 [INFO] >> ButtonMap 1 2 3
+2024-10-23 02:26:36 [INFO] Button Map = 1 2 3 0 0 0 0 0 
+2024-10-23 02:26:36 [INFO] >> MouseWheelSpeed 50
+2024-10-23 02:26:36 [INFO] Mouse Wheel Speed = 50
+2024-10-23 02:26:36 [INFO] >> Smoothing 0
+2024-10-23 02:26:36 [INFO] Smoothing = off
+2024-10-23 02:26:36 [INFO] >> Info
+2024-10-23 02:26:36 [INFO] 
+2024-10-23 02:26:36 [INFO] Tablet: Wacom CTL-4100
+2024-10-23 02:26:36 [INFO]   Width = 152.00 mm
+2024-10-23 02:26:36 [INFO]   Height = 95.00 mm
+2024-10-23 02:26:36 [INFO]   Max X = 15200
+2024-10-23 02:26:36 [INFO]   Max Y = 9500
+2024-10-23 02:26:36 [INFO]   Max Pressure = 4095
+2024-10-23 02:26:36 [INFO]   Click Pressure = 0
+2024-10-23 02:26:36 [INFO]   Keep Tip Down = 0 packets
+2024-10-23 02:26:36 [INFO]   Report Id = 10
+2024-10-23 02:26:36 [INFO]   Report Length = 192 bytes
+2024-10-23 02:26:36 [INFO]   Detect Mask = 0x40
+2024-10-23 02:26:36 [INFO]   Ignore Mask = 0x00
+2024-10-23 02:26:36 [INFO]   Button Map = 1 2 3 0 0 0 0 0 
+2024-10-23 02:26:36 [INFO] 
+2024-10-23 02:26:36 [INFO] Area:
+2024-10-23 02:26:36 [INFO]   Desktop = 3520px x 1080px
+2024-10-23 02:26:36 [INFO]   Screen Map = 1920px x 1080px @ X+0px, Y+0px
+2024-10-23 02:26:36 [INFO]   Tablet =  152.00mm x 85.50mm @ Min(76.00mm, 42.75mm) Max(228.00mm, 128.25mm)
+2024-10-23 02:26:36 [INFO]   Rotation matrix = [1.000000,-0.000000,0.000000,1.000000]
+2024-10-23 02:26:36 [INFO] 
+2024-10-23 02:26:36 [INFO] >> Start
+2024-10-23 02:26:36 [INFO] TabletDriver started!
+2024-10-23 02:26:36 [STATUS] TABLET Wacom CTL-4100
+2024-10-23 02:26:36 [STATUS] HID 056A 0374 FF0D 0001
+2024-10-23 02:26:36 [STATUS] WIDTH 152.00000
+2024-10-23 02:26:36 [STATUS] HEIGHT 95.00000
+2024-10-23 02:26:36 [STATUS] MAX_X 15200
+2024-10-23 02:26:36 [STATUS] MAX_Y 9500
+2024-10-23 02:26:36 [STATUS] MAX_PRESSURE 4095
+2024-10-23 02:26:36 [INFO] >> Log Off
